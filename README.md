@@ -5,6 +5,6 @@ The experience data can be download from [data](https://drive.google.com/drive/f
 You can find all experience scripts in **./script** folder
 ## Visualization
 The three ipynb files are used for loss/bleu value visualization.
-**valid_loss_visualisation.ipynb**
-**range_test_visualization.ipynb**
-**bleu_visualization.ipynb**
+- **valid_loss_visualisation.ipynb**
+- **range_test_visualization.ipynb**
+- **bleu_visualization.ipynb**
