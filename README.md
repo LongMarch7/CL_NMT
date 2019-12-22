@@ -3,7 +3,7 @@
 This repository mainly refer to the following two open source code
  - [loss-landscape](https://github.com/tomgoldstein/loss-landscape) 
  - [fairSeq](https://github.com/pytorch/fairseq)
- **Environment**: One GPU with the following software/libraries installed:
+- **Environment**: One GPU with the following software/libraries installed:
 - [PyTorch 1.3.1](https://pytorch.org/)
 - [Fairseq 0.6.2](https://github.com/pytorch/fairseq)
 - [openmpi 3.1.2](https://www.open-mpi.org/)    (optional)
