@@ -22,11 +22,13 @@ The three ipynb files are used for loss/bleu value visualization.
 - **range_test_visualization.ipynb**
 - **bleu_visualization.ipynb**
 
-@misc{lee2020applying,
-    title={Applying Cyclical Learning Rate to Neural Machine Translation},
-    author={Choon Meng Lee and Jianfeng Liu and Wei Peng},
-    year={2020},
-    eprint={2004.02401},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
+To cite this work::
+
+    @misc{lee2020applying,
+       title={Applying Cyclical Learning Rate to Neural Machine Translation},
+       author={Choon Meng Lee and Jianfeng Liu and Wei Peng},
+       year={2020},
+       eprint={2004.02401},
+       archivePrefix={arXiv},
+       primaryClass={cs.LG}
+    }
